@@ -1,0 +1,5 @@
+.bg-div {
+  position: relative;
+  background-image: url(./hercules.jpg);
+  background-size: cover;
+}
